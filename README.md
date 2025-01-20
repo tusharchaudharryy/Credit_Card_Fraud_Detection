@@ -1,4 +1,4 @@
-# Credit_card_fraud_dectetion
+# Credit_Card_Fraud_Detection
 
 In the oversample cases, of all the models we build found that the XGBOOST model with Random Oversampling with StratifiedKFold CV gave us the best accuracy and ROC on oversampled data. 
 
